@@ -29,15 +29,15 @@ Get your credentials for Custom Search API
 
 Go to Credentials and get API key
 
-CustomSearch API Client Library for Python
+# CustomSearch API Client Library for Python
 
-'$ pip install --upgrade google-api-python-client'
+' $ pip install --upgrade google-api-python-client '
 
 https://developers.google.com/api-client-library/python/apis/customsearch/v1#system-requirements
 
 # Parameters
-'''
-Args:
+
+''' Args:
   q: string, Query (required)
   dateRestrict: string, Specifies all search results are from a time period
   hl: string, Sets the user interface language.
@@ -146,5 +146,4 @@ Args:
   siteSearchFilter: string, Controls whether to include or exclude results from the site named in the as_sitesearch parameter
     Allowed values
       e - exclude
-      i - include
-'''
+      i - include '''
