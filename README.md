@@ -13,7 +13,7 @@ Get search engine ID
 
 You can test the custom search engine by directly visiting its "Public URL" which is found in "Setup" => "Details" => "Public URL"
 
-##Make a Google Cloud Console "Project" to get API key
+# Make a Google Cloud Console "Project" to get API key
 
 Go to https://console.developers.google.com/apis/dashboard
 
@@ -35,7 +35,7 @@ CustomSearch API Client Library for Python
 
 https://developers.google.com/api-client-library/python/apis/customsearch/v1#system-requirements
 
-#Parameters
+# Parameters
 '''
 Args:
   q: string, Query (required)
