@@ -1,4 +1,5 @@
-#Google Custom Search Python
+Google Custom Search Python
+===========================
 
 This is a Python program to display n page Google Search results about a specific word.
 
@@ -8,7 +9,7 @@ Go to https://www.google.com/cse/
 
 Create a custom search engine
 
-Get search engine ID 
+Get search engine ID
 
 You can test the custom search engine by directly visiting its "Public URL" which is found in "Setup" => "Details" => "Public URL"
 
