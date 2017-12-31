@@ -3,7 +3,7 @@ Google Custom Search Python
 
 This is a Python program to display n page Google Search results about a specific word.
 
-#Make a Google Custom Search Engine
+# Make a Google Custom Search Engine
 
 Go to https://www.google.com/cse/
 
@@ -13,7 +13,7 @@ Get search engine ID
 
 You can test the custom search engine by directly visiting its "Public URL" which is found in "Setup" => "Details" => "Public URL"
 
-#Make a Google Cloud Console "Project" to get API key
+##Make a Google Cloud Console "Project" to get API key
 
 Go to https://console.developers.google.com/apis/dashboard
 
