@@ -35,9 +35,10 @@ Go to Credentials and get API key
 
 https://developers.google.com/api-client-library/python/apis/customsearch/v1#system-requirements
 
-# Parameters
+## Parameters
 
-''' Args:
+```
+Args:
   q: string, Query (required)
   dateRestrict: string, Specifies all search results are from a time period
   hl: string, Sets the user interface language.
@@ -146,4 +147,5 @@ https://developers.google.com/api-client-library/python/apis/customsearch/v1#sys
   siteSearchFilter: string, Controls whether to include or exclude results from the site named in the as_sitesearch parameter
     Allowed values
       e - exclude
-      i - include '''
+      i - include
+```
